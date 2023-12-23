@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programming and pure mathematics, specially Probability, Statistics and Combinatorics
 - 🌱 I’m currently learning about machine learning
 - 💞️ I’m looking to collaborate on applied mathematics and software development
-- 📫 How to reach me: raymondreddingtondev@yahoo.com
+- 📫 How to reach me: niorlysernestoc@gamil.com
 
 <!---
 Niorlys/Niorlys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
